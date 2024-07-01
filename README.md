@@ -1,2 +1,2 @@
 # NLP-Sentiment-Analysis
-NLP annotation project to classify sentiment of political speeches
+Annotation and classifier project to label sentiment in political speeches
