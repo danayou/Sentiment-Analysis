@@ -1,0 +1,11 @@
+Political speeches are effective means of influencing public opinion and delivering messages. Examining the tone of these speeches might reveal important information about how the public views certain political leaders and parties. For instance, understanding the sentiments of hope and progression can reveal the degree of confidence or optimism in political leadership and policies. As a result, for this project, our group has decided to focus on the task of annotating political speeches, specifically made by US politicians, for sentiment analysis, focusing on categories, such as hope, progression, and political polarization.
+
+The categories that we are considering annotating are:
+Hope: Evaluating the speech's degree of positivism and optimism.
+Progression: Assessing how much progressive or forward-thinking terminology is employed.
+Political Polarization: Evaluating how much the speech encourages polarization or dissension among political ideologies.
+Neutral Statement: Statements devoid of strong opinions or emotional overtones. 
+
+To go about the data collection and annotation process, we will first compile a varied collection of political speeches from different leaders and occasions. In order to capture a variety of linguistic patterns and attitudes, we will make sure the dataset encompasses a broad spectrum of political ideologies, subjects, and historical periods. From this, each speech in the dataset will have an annotation based on the established categories. According to the standards listed for each category, portions of the text must be labeled as either expressing hope, progress, political polarization, or neutrality.
+
+The project's dataset will primarily come from transcripts and possibly even recordings of political speeches made by different politicians that are made available to the public. These speeches could address everything from answers to current events to policy recommendations and campaign rhetoric. Furthermore, it is important to note that the data utilized in this project is neither private nor under any form of copyright, therefore it can be freely shared with others. 

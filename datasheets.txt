@@ -1,0 +1,23 @@
+Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
+No, all information contained in the speech records are already in the public domain and do not contain any data corresponding to a particular individual.
+
+Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?
+Yes, all speech makers are cited directly but no other people are implicated in that identification.
+
+Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals race or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?
+No, all speeches are broader addresses and, as they do not mention individual people, they also do not contain sensitive data. 
+
+If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?
+Dataset is compiled by Stephen E. Lucas (University of Wisconsin-Madison) and Martin J. Medhurst (Baylor University) in order to classify the “50 Important Speeches in 21st Century America.” This data is therefore subjective to the opinions of its authors, but is still representative of the 50 most important speeches because it covers a wide variety of politicians.
+
+Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)? 
+For each speech record, there is an original text source (i.e. mcconnell.senate.gov), an original audio and video source (i.e. C-SPAN.org), audio note (i.e. AR-XE = American Rhetoric Extreme Enhancement), page update date (i.e. 12/30/23), and U.S. Copyright Status (i.e. Text = Public domain. Audio and Video = Property of AmericanRhetoric.com). Anyone accessing this speech records database can retrace the origins of the text, audio, or video source based on citations. 
+
+Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? 
+Each politician’s speech corresponds to an externally-linked webpage. With each speech’s tags and sources listed individually on those pages, we suspect that making use of compiled trends among data sourcing will be difficult. There is also no further explanation for what specifically constitutes a speech tagged with an audio note such as “American Rhetoric Extreme Enhancement” or others and this uncertainty makes this part of the dataset hard to use.
+
+Are there tasks for which the dataset should not be used?
+To reaffirm or reject any biases or stereotypes in a discriminatory way. Oftentimes, politicians speak in a charged, exaggerated, or calculated way and thus this type of data should not be conflated with fact in order to bolster any kind of truth. 
+
+Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
+No, not to our knowledge.
